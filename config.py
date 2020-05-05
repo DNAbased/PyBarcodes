@@ -1,8 +1,8 @@
 # choose the length of the barcodes
 length = 6
-# remove barcodes containing repeats of more than three nucleotides?
+# remove barcodes containing repeats of more than two nucleotides? 1:yes; 0: no
 repeats = 1
-# only keep barcodes containing each nucleotide at least once?
+# only keep barcodes containing each nucleotide at least once? 1:yes; 0: no
 each_nt = 1
 # set a lower and an upper limit to GC content
 gc_lower = 40
